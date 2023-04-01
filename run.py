@@ -10,7 +10,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from OK64 import approval
+    from OKK import approval
 
     approval()
 
